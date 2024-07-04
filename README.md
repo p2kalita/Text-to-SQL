@@ -5,7 +5,7 @@
 Clone the repository
 
 ```bash
-Project repo: https://github.com/p2kalita/Text-to-SQL/
+Project repo: https://github.com/p2kalita/Text-to-SQL
 ```
 
 ### STEP 01- Create a conda environment after opening the repository
